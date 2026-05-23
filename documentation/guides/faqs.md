@@ -87,7 +87,8 @@ To generate the zero-knowledge proof, arithmetic circuits are used. Developers o
 
 If we have a leo program to add two u32 variables:  
 
-![leo example](./images/leo_example.png)
+<img width="544" height="198" alt="Screenshot from 2026-05-23 01-20-27" src="https://github.com/user-attachments/assets/a28b143c-b180-473e-acb0-f6ad07c56849" />
+
 
 The Aleo instructions would look something like this (very similar to assembly language):  
 
